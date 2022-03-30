@@ -1,0 +1,203 @@
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua & Deps
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia Herzegovina
+Botswana
+Brasil
+Brazil
+Brunei
+Bulgaria
+Burkina
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Rep
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Congo {Democratic Rep}
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estados Unidos
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+In non tellus scelerisque, pellentesque libero nec, imperdiet nisi. Vestibulum mollis egestas ex, eget rutrum arcu semper semper. Morbi vitae nisi id elit rhoncus laoreet. Vivamus eu metus at elit dictum finibus nec non metus. Morbi pellentesque turpis ut lacinia feugiat. Praesent at commodo lorem. Nullam viverra viverra eros, quis fermentum purus dignissim a. Proin vitae arcu elementum, cursus nisi id, ultricies enim. Etiam egestas vel elit non accumsan. Proin a tortor enim.
+Iran
+Iraq
+Ireland {Republic}
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis viverra eros. Vivamus sit amet nunc ac ante malesuada tincidunt. Phasellus fermentum justo quis risus tempor gravida. Etiam pretium a arcu fermentum fermentum. Vestibulum quis gravida eros, et lacinia eros. Suspendisse convallis nec velit quis efficitur. Donec nec mollis magna. In tincidunt eros nec enim volutpat mollis. Phasellus non turpis blandit, congue nisl id, convallis eros. Pellentesque luctus nunc in dignissim fermentum. In vulputate hendrerit ullamcorper. Donec mattis at sem id cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ac urna vitae ipsum vestibulum vestibulum sit amet vestibulum mauris.
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauris non fringilla tellus, ut lobortis est. Aenean ut pellentesque elit, in convallis massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies non lectus ut congue. Maecenas porttitor, dui sit amet sollicitudin tempus, elit quam sagittis quam, sed hendrerit arcu lacus sed ipsum. Vestibulum scelerisque vestibulum dapibus. Curabitur maximus nisl nibh, et dictum felis maximus vel. Sed pretium lectus eu facilisis ullamcorper. Mauris at magna id nisi vulputate efficitur eget vitae quam. Vivamus vel lacus porttitor, facilisis sem vitae, aliquam sapien. Aliquam in urna sed lacus faucibus imperdiet ut eget eros. Etiam viverra erat ante, ut ullamcorper dui lobortis ac. Duis et semper purus, dictum facilisis ipsum. Donec id magna tortor. Praesent ac felis quis orci suscipit bibendum. Maecenas non libero eget mi pellentesque tristique.
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar, {Burma}
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Nulla efficitur quam in mi luctus vehicula. Suspendisse potenti. Aliquam ac velit nunc. Sed rhoncus lectus sed tellus varius, id volutpat dui pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam varius arcu quis mauris consectetur, faucibus rutrum velit iaculis. Nunc cursus iaculis porta. Morbi et faucibus orci. In mauris erat, hendrerit nec consectetur eu, semper eu nulla. Aliquam erat volutpat. Quisque mattis, magna nec accumsan volutpat, augue orci porttitor turpis, a rhoncus nunc ante ut nisl.
+Nunc cursus consectetur rhoncus. Nunc a lacus sed risus egestas tristique. Nunc eu eros tempor, faucibus turpis vitae, efficitur ante. Curabitur vel felis ut enim congue viverra nec vitae quam. Aenean venenatis, turpis nec fermentum maximus, nulla lectus sodales arcu, vel egestas tellus justo non tellus. Mauris elementum erat a odio consectetur suscipit. Donec ac orci nunc. Ut volutpat leo dolor, sit amet consectetur ligula feugiat et. Mauris vulputate arcu non efficitur luctus. Praesent libero lectus, imperdiet eu faucibus ullamcorper, sodales at velit. Morbi sed sollicitudin eros. Sed euismod iaculis purus a vestibulum.
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Vincent & the Grenadines
+Samoa
+San Marino
+Sao Tome & Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+St Kitts & Nevis
+St Lucia
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad & Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
