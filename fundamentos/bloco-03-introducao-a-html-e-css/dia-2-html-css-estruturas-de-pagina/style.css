@@ -1,0 +1,11 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+}
+
+ul {
+    background-color: #f0f0f0;
+}
+.question, .u-list {
+    background-color: #ddd;
+}
