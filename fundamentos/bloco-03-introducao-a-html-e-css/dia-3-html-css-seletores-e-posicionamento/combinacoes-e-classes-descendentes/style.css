@@ -7,6 +7,14 @@ h1 em, h2 em, h3 em {
     border: 1px solid #000;
 }
 
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
 ol li {
     background-color: #ff0;
 }
