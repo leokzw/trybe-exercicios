@@ -11,5 +11,6 @@ h1, p {
 }
 
 .website-list-item:active {
-    color: #555;
+    font-family: sans-serif, Helvetica;
+    font-size: 18px;
 }
