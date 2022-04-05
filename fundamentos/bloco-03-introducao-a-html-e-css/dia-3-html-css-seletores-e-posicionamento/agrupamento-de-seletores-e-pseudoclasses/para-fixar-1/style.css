@@ -6,7 +6,7 @@ h1, p {
     text-align: center;
 }
 
-.website-list-item:hover {
+.website-list-item:hover, .feature-list-item:hover {
     background-color: #eee;
 }
 
