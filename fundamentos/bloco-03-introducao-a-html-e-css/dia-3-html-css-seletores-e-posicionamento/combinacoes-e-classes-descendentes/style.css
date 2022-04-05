@@ -26,3 +26,11 @@ ol li:nth-child(even) {
 ol li:nth-child(odd) {
     text-transform: uppercase;
 }
+
+#program-langs li:not(:nth-child(n + 4)) {
+    color: #00f;
+}
+
+.java-w {
+    background-color: #ffc0cb;
+}
