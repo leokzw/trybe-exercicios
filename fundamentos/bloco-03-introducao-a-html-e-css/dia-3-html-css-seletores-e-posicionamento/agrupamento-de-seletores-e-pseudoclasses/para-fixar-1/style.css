@@ -5,3 +5,7 @@ h1, p {
 .website-list-item:hover {
     background-color: #eee;
 }
+
+.website-list-item:active {
+    color: #555;
+}
