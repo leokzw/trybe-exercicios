@@ -34,3 +34,27 @@ ol li:nth-child(odd) {
 .java-w {
     background-color: #ffc0cb;
 }
+
+#dev-sources li a:hover {
+    font-weight: bold;
+}
+
+#dev-sources li a[href*="stackoverflow"]:hover {
+    color: #ffa500;
+}
+
+#dev-sources li a[href*="w3schools"]:hover {
+    color: #080;
+}
+
+#dev-sources li a[href*="mozilla"]:hover {
+    color: #000;
+}
+
+#dev-sources li a[href*="devdocs"]:hover {
+    color: #ff0;
+}
+
+#dev-sources li a[href*="trybe"]:hover {
+    color: #080;
+}
