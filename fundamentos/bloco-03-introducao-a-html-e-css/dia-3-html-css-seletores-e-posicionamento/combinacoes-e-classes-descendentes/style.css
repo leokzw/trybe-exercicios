@@ -1,0 +1,60 @@
+h1, h2, h3 {
+    color: #f00;
+}
+
+h1 em, h2 em, h3 em {
+    font-size: 40px;
+    border: 1px solid #000;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+ol li {
+    background-color: #ff0;
+}
+
+ol li:nth-child(even) {
+    color: #008000;
+}
+
+ol li:nth-child(odd) {
+    text-transform: uppercase;
+}
+
+#program-langs li:not(:nth-child(n + 4)) {
+    color: #00f;
+}
+
+.java-w {
+    background-color: #ffc0cb;
+}
+
+#dev-sources li a:hover {
+    font-weight: bold;
+}
+
+#dev-sources li a[href*="stackoverflow"]:hover {
+    color: #ffa500;
+}
+
+#dev-sources li a[href*="w3schools"]:hover {
+    color: #080;
+}
+
+#dev-sources li a[href*="mozilla"]:hover {
+    color: #000;
+}
+
+#dev-sources li a[href*="devdocs"]:hover {
+    color: #ff0;
+}
+
+#dev-sources li a[href*="trybe"]:hover {
+    color: #080;
+}
