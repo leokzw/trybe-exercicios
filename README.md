@@ -89,7 +89,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 10.3 - Jest - Simulando comportamentos
 - [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end
 
 ##### Bloco 11: [Introdução à React](https://github.com/leokzw/trybe-exercicios)
 
@@ -145,7 +145,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 19: [Projeto App de Receitas](https://github.com/leokzw/trybe-exercicios)
 - [ ] 19.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end
 
 ##### Bloco 20: [Introdução à SQL](https://github.com/leokzw/trybe-exercicios)
 
@@ -242,7 +242,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 32.1 - Projeto - Trybeer v2
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação
 
 ##### Bloco 33: [Arquitetura de Computadores e Redes](https://github.com/leokzw/trybe-exercicios)
 
