@@ -5,4 +5,6 @@ let sum = 0;
      sum += numbers[i];
  }
 
- console.log(sum);
+ let average = sum / numbers.length;
+
+ console.log(average);
