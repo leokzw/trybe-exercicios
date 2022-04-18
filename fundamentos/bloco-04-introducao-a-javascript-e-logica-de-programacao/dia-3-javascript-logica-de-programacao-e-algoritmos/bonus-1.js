@@ -26,8 +26,8 @@ let symbol = '*';
 let inputLine = '';
 
 for (let lineIndex = 0; lineIndex < n; lineIndex += 1) {
-  inputLine = inputLine + symbol;
+    inputLine = inputLine + symbol;
 };
 for (let lineIndex = 0; lineIndex < n; lineIndex += 1) {
-  console.log(inputLine);
+    console.log(inputLine);
 }; */
