@@ -8,6 +8,8 @@ n = 7
  *   *
 ******* */
 
+// Resolução do gabarito:
+
 let n = 7;
 let middle = (n + 1) / 2;
 let controlLeft = middle;
